@@ -1,0 +1,12 @@
+1
+nain fakhar
+100000
+
+2
+zain zahid
+200000
+
+3
+momin khan
+5000
+

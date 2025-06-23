@@ -1,0 +1,18 @@
+------------------------
+Student: Monaa
+Reg No: 5889/BSCS/F24
+GPA obtained: 3.5
+Marks of sub 1: 87
+Marks of sub 2: 90
+Marks of sub 3: 78
+Marks of sub 4: 85
+Marks of sub 5: 88
+------------------------
+Student: Zunii
+Reg No: 5727/BSCS/F24
+GPA obtained: 3.8
+Marks of sub 1: 91
+Marks of sub 2: 89
+Marks of sub 3: 86
+Marks of sub 4: 92
+Marks of sub 5: 90

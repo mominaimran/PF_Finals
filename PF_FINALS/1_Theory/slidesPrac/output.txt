@@ -1,0 +1,9 @@
+Name: zain
+Department: HR
+Salary: 500000
+Name: adan
+Department: IT
+Salary: 700000
+Name: amir
+Department: Sales
+Salary: 600000
